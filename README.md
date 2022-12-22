@@ -218,10 +218,10 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 > You can change in `config.js`, on global.owner. make sure you use correct syntax.
 ```js
 global.owner = [
-  ['6281319944687', 'BG', true]
+  ['6285363864537', 'BG', true]
 ]
 ```
-> First argument on array is number like `6281319944687`, second argument is name like `BG` (if this argument pass, if using `owner` command, this number will send as owner), third argument is developer like `true` (if this argument pass, if there have plugins error (not syntax error) the error will send to developer)
+> First argument on array is number like `6285363864537`, second argument is name like `BG` (if this argument pass, if using `owner` command, this number will send as owner), third argument is developer like `true` (if this argument pass, if there have plugins error (not syntax error) the error will send to developer)
 
 
 ### How to read folder in folder plugins as plugin file?
@@ -266,6 +266,7 @@ global.owner = [
 [![ryznxx](https://github.com/ryznxx.png?size=100)](https://github.com/ryznxx)
 [![ZeroChanBot](https://github.com/ZeroChanBot.png?size=100)](https://github.com/ZeroChanBot)
 [![Bintangp02](https://github.com/Bintangp02.png?size=100)](https://github.com/Bintangp02)
+[![RhlArdv](https://github.com/RhlArdv.png?size=100)](https://github.com/RhlArdv)
 [![itsmeR1F4I](https://github.com/itsmeR1F4I.png?size=100)](https://github.com/itsmeR1F4I)
 [![DineshValor](https://github.com/DineshValor.png?size=100)](https://github.com/DineshValor)
 [![TeamMars20](https://github.com/TeamMars20.png?size=100)](https://github.com/TeamMars20)
